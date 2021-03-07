@@ -1,0 +1,13 @@
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crt1.o: unknown program property type 0xc0008002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crt1.o: unknown program property type 0xc0010001 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crt1.o: unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crti.o: unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crti.o: unknown program property type 0xc0010001 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/crtbegin.o: unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/crtbegin.o: unknown program property type 0xc0010001 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/libc_nonshared.a(elf-init.oS): unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/libc_nonshared.a(elf-init.oS): unknown program property type 0xc0010001 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/crtend.o: unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/crtend.o: unknown program property type 0xc0010001 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crtn.o: unknown program property type 0xc0010002 in .note.gnu.property section
+/usr/bin/ld.gold: warning: /usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../lib/crtn.o: unknown program property type 0xc0010001 in .note.gnu.property section
